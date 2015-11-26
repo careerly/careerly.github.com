@@ -1,1 +1,1 @@
-# careerly.github.com
+# careerly.github.io
